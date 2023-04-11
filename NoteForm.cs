@@ -16,6 +16,7 @@ namespace Poznamkovnik
             this.note = note;
             this.data = data;
             noteTextBox.Text = note;
+            this.FormBorderStyle = FormBorderStyle.FixedSingle; // zafixování velikosti okna
         }
 
         private void SaveButton_Click(object sender, EventArgs e)
