@@ -1,0 +1,12 @@
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\obj\Debug\Poznamkovnik.csproj.AssemblyReference.cache
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\obj\Debug\Poznamkovnik.csproj.SuggestedBindingRedirects.cache
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\obj\Debug\Poznamkovnik.MainForm.resources
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\obj\Debug\Poznamkovnik.NoteForm.resources
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\obj\Debug\Poznamkovnik.Properties.Resources.resources
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\obj\Debug\Poznamkovnik.csproj.GenerateResource.cache
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\obj\Debug\Poznamkovnik.csproj.CoreCompileInputs.cache
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\bin\Debug\Poznamkovnik.exe.config
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\bin\Debug\Poznamkovnik.exe
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\bin\Debug\Poznamkovnik.pdb
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\obj\Debug\Poznamkovnik.exe
+C:\Škola\AIK2\Programování\Multiformuláře, vrstvy\Poznamkovnik\Poznamkovnik\obj\Debug\Poznamkovnik.pdb
